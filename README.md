@@ -33,7 +33,7 @@
 ---
 
 
-## ✅ 项目简介（Description）
+## ✅ 项目简介
 
 > **智能铁道扣件缺陷检测系统**
 > 基于 YOLOv5 + GhostNet + Coordinate Attention 的轻量级铁路扣件缺陷检测模型，支持识别扣件移位、缺失、螺丝松动，可部署于 Jetson Nano 或 Hugging Face Space 等平台。
