@@ -1,3 +1,5 @@
+## ✅ Description
+
 > **Smart Railway Fastener Defect Detector**
 > Lightweight YOLOv5-based system with GhostNet and Coordinate Attention for real-time detection of missing, displaced, or loose railway fasteners. Supports deployment on Jetson Nano and Hugging Face Space.
 
